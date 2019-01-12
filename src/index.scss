@@ -1,9 +1,12 @@
 $color: pink;
+
 body {
   margin: 0;
   padding: 0;
+  font-size: 36px;
   font-family: sans-serif;
-  .App-header{
+
+  .App-header {
     background-color: $color;
   }
 }
